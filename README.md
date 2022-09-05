@@ -2,7 +2,10 @@
 ## FewTURE的结果
 |  Dataset  |         5-Way 1-Shot          |   5-Way 5-Shot   |   
 |:--------|:-----------------------------:|:----------------:|
-| <i>mini</i>ImageNet   ont size=1>0.78        | **63.81** ± <font size=1>0.75 |
+| <i>mini</i>ImageNet | **72.40** ± <font size=1>0.78 | **86.38** ± <font size=1>0.49 |
+|  <i>tiered</i>ImageNet  |       **76.32** ± <font size=1>0.87        | **89.96** ± <font size=1>0.55 | 
+| CIFAR-FS |       **77.76** ± <font size=1>0.81        | **88.90** ± <font size=1>0.59 | 
+| FC100 |       **47.68** ± <font size=1>0.78        | **63.81** ± <font size=1>0.75 |
 
 
 
