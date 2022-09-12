@@ -7,6 +7,13 @@
 | CIFAR-FS |       **77.76** ± <font size=1>0.81        | **88.90** ± <font size=1>0.59 | 
 | FC100 |       **47.68** ± <font size=1>0.78        | **63.81** ± <font size=1>0.75 |
 
+## BML的结果
+|  Dataset  |         5-Way 1-Shot          |   5-Way 5-Shot   |   
+|:--------|:-----------------------------:|:----------------:|
+| <i>mini</i>ImageNet | **67.04** ± <font size=1>0.63 | **83.63** ± <font size=1>0.29 |
+|  <i>tiered</i>ImageNet  |       **68.99** ± <font size=1>0.50        | **85.49** ± <font size=1>0.34 | 
+| CIFAR-FS |       **73.45** ± <font size=1>0.47        | **88.04** ± <font size=1>0.33 | 
+
 
 
 ## renet的结果
