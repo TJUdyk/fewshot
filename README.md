@@ -17,7 +17,7 @@
 ## Constellation的结果
 |  Dataset  |         5-Way 1-Shot          |   5-Way 5-Shot   |   
 |:--------|:-----------------------------:|:----------------:|
-| <i>mini</i>ImageNet | **64.89** ± <font size=1>0.23 | **79/。95** ± <font size=1>0.17 |
+| <i>mini</i>ImageNet | **64.89** ± <font size=1>0.23 | **79.95** ± <font size=1>0.17 |
 | CIFAR-FS |       **75.40** ± <font size=1>0.2        | **86.8** ± <font size=1>0.2 | 
 | FC100 |       **43.8** ± <font size=1>0.2        | **59.7** ± <font size=1>0.2 |
 
