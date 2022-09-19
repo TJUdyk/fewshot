@@ -14,7 +14,12 @@
 |  <i>tiered</i>ImageNet  |       **68.99** ± <font size=1>0.50        | **85.49** ± <font size=1>0.34 | 
 | CIFAR-FS |       **73.45** ± <font size=1>0.47        | **88.04** ± <font size=1>0.33 | 
 
-
+## Constellation的结果
+|  Dataset  |         5-Way 1-Shot          |   5-Way 5-Shot   |   
+|:--------|:-----------------------------:|:----------------:|
+| <i>mini</i>ImageNet | **64.89** ± <font size=1>0.23 | **79/。95** ± <font size=1>0.17 |
+| CIFAR-FS |       **75.40** ± <font size=1>0.2        | **86.8** ± <font size=1>0.2 | 
+| FC100 |       **43.8** ± <font size=1>0.2        | **59.7** ± <font size=1>0.2 |
 
 ## renet的结果
 <table>
